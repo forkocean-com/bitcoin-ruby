@@ -646,7 +646,7 @@ module Bitcoin
       project: :bitcoin,
       magic_head: "\xF1\xCF\xA6\xD3",
       message_magic: "Bitcoin Signed Message:\n",
-      address_version: "80",
+      address_version: "25",
       p2sh_version: "05",
       privkey_version: "80",
       extended_privkey_version: "0488ADE4",
